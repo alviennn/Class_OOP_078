@@ -46,3 +46,10 @@ public:
 		cout << "\nsks : " << sks;
 	}
 };
+
+int main() {
+	Mahasiswa mhs;
+	matakuliah Mk;
+
+
+}

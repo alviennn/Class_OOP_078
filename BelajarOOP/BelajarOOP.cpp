@@ -17,3 +17,9 @@ public:
 	void printData();
 };
 
+void Mahasiswa::printData() {
+	cout << "\nData Mahasiswa";
+	cout << "\nNiM :" << nim;
+	cout << "\nNama :" << nama;
+	cout << "\nnilai :" << nilai;
+}

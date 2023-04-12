@@ -51,5 +51,10 @@ int main() {
 	Mahasiswa mhs;
 	matakuliah Mk;
 
+	mhs.input();
+	mhs.printData();
+
+	Mk.inputMk();
+	Mk.display();
 
 }

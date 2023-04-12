@@ -13,6 +13,7 @@ public:
 		cout << "Masukan Nama :";
 		cin >> nama;
 		cout << "Masukan Nilai :";
+		cin >> nilai;
 	}
 	void printData();
 };

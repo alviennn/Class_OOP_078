@@ -38,4 +38,11 @@ public:
 		cout << "Masukan sks : ";
 		cin >> sks;
 	}
+
+	void display() {
+		cout << "\nData Matakuliah";
+		cout << "\nKode Matakuliah : " << kode;
+		cout << "\nNama Matakuliah : " << namaMk;
+		cout << "\nsks : " << sks;
+	}
 };
